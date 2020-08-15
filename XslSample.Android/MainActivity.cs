@@ -4,6 +4,7 @@ using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
 using XslSample.Droid.App_Start;
+using XslSample.Factories;
 
 namespace XslSample.Droid
 {

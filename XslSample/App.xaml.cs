@@ -1,5 +1,6 @@
 ﻿using Xamarin.Forms;
 using XslSample.App_Start;
+using XslSample.Factories;
 using XslSample.Views;
 
 namespace XslSample

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Xamarin.Forms;
 
-namespace XslSample
+namespace XslSample.Factories
 {
     public class PageFactory : IPageFactory
     {

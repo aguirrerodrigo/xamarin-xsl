@@ -1,7 +1,7 @@
 ﻿using System;
 using SimpleInjector;
 
-namespace XslSample
+namespace XslSample.Factories
 {
     internal static class Locator
     {

@@ -1,4 +1,5 @@
-﻿using XslSample.ViewModels;
+﻿using XslSample.Factories;
+using XslSample.ViewModels;
 using XslSample.Views;
 
 namespace XslSample.App_Start

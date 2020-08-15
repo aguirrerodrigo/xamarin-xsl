@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace XslSample
+namespace XslSample.Factories
 {
     public interface IPageFactory
     {

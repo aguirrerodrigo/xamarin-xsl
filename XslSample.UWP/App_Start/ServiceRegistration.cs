@@ -1,4 +1,5 @@
 ﻿using XslSample.Documents;
+using XslSample.Factories;
 using XslSample.Repositories;
 using XslSample.UWP.Documents;
 using XslSample.UWP.Repositories;

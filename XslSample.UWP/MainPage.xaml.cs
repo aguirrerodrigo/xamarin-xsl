@@ -1,4 +1,5 @@
-﻿using XslSample.UWP.App_Start;
+﻿using XslSample.Factories;
+using XslSample.UWP.App_Start;
 
 namespace XslSample.UWP
 {

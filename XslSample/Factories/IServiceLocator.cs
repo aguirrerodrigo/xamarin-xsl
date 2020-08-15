@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace XslSample
+namespace XslSample.Factories
 {
     public interface IServiceLocator
     {
