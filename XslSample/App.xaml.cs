@@ -14,6 +14,8 @@ namespace XslSample
             ServiceRegistration.Register(ServiceLocator.Instance);
             PageRegistration.Register(PageFactory.Instance);
 
+            Locator.Verify();
+
             MainPage = PageFactory.Instance.Create<MainPage>();
         }
 

@@ -35,5 +35,10 @@ namespace XslSample.Factories
         {
             return container.GetInstance(type);
         }
+
+        public static void Verify()
+        {
+            container.Verify();
+        }
     }
 }
